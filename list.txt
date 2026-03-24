@@ -5,4 +5,8 @@ Donut
 Crisps
 Cookies
 Jiggies
+candies
+cake
+popcorn
+waffles
 
